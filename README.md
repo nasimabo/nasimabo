@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **PYTHON/ML/DL**
 
-💬 Ask me about **HTML/CSS/BOOSTRAP/PYTHON/ML/DL... or anything [here](https://github.com/nasimabo)**
+💬 Ask me about **HTML/CSS/BOOSTRAP/PYTHON/DS/ML/DL... or anything [here](https://github.com/nasimabo)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
