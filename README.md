@@ -12,7 +12,7 @@
  
  🔭 I’m a student of **Computer science enginnering**
  
- 🌱 I’m currently learning **PYTHON/DS/ML/DL**
+ 🌱 I’m currently learning **PYTHON/DS/ML/DL...**
 
 💬 Ask me about **HTML/CSS/BOOSTRAP/PYTHON/DS/ML/DL... or anything [here](https://github.com/nasimabo)**
 
